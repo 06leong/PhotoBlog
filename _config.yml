@@ -1,8 +1,8 @@
 # Site settings
 title: L's Photo Blog
 description: "Photo Journal"
-url: "https://06leong.github.io"
-baseurl: "/PhotoBlog"
+url: "https://www.bellotreno.org"
+baseurl: ""
 share: true
 
 # Owner/author information
@@ -23,9 +23,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://06leong.github.io/PhotoBlog/gallery/"  
-  - JOURNAL: "https://06leong.github.io/PhotoBlog/journal/"
-  - ABOUT: "https://06leong.github.io/PhotoBlog/about/"
+  - GALLERY: "https://www.bellotreno.org/gallery/"  
+  - JOURNAL: "https://www.bellotreno.org/journal/"
+  - ABOUT: "https://www.bellotreno.org/about/"
 
 # All translation keys
 translations:
